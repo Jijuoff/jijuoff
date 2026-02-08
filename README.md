@@ -11,7 +11,6 @@
 - ⛏️ **Développement Minecraft (Java)** *(en apprentissage)*
 - ⚙️ Configuration de **plugins Minecraft**
 - 🎨 Pixel artist
-- 🚀 J’apprends **Unity & C#**
 - 🏢 Président & fondateur de **Volcanium Studio**
 - 🔥 Créateur du serveur Minecraft **Volcanium**
 
@@ -37,37 +36,37 @@ Développement, configuration, game design & gestion
 - Python  
 - Lua (Roblox)  
 - Java *(Minecraft)*
+- C/C++
 
 #### 🎮 Game Dev
-- Roblox Studio  
-- Unity *(en apprentissage)*
-
-#### 🎨 Création
-- Pixel Art  
-- UI & visuels de jeux
+- Roblox Studio
+- Minecraft
+- GoDot *(en apprentissage)*
 
 #### ⚙️ Outils
-- Git & GitHub  
+- GitHub/git
 - VS Code
+- InteligieIDEA
 
 ---
 
 ### 🌍 Langues
 
-- 🇫🇷 Français — langue maternelle  
-- 🇬🇧 Anglais — bon niveau / courant
+- 🇫🇷 Français — C2 
+- ᴇɴ Anglais — B2 +
 
 ---
 
-### 🌱 En ce moment
+### 🔨 En ce moment
 
 - Apprentissage de **Unity**
-- Perfectionnement en **Minecraft Java**
+- Apprentissage en **Java Bukkit/paper**
 
 ---
 
 ### 📫 Me contacter
 
 - 💬 @jiju_off *(discord)*
+- 📧julien.rilliot@icloud.com
 - 🌐 https://volcanium-studio.com
 
