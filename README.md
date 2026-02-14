@@ -14,8 +14,8 @@
 ### 🏢 Projets principaux
 
 #### 🔥 Volcanium Studio
-- Studio web assotiatif
-- 🌐 https://volcanium-studio.com
+Studio web assotiatif
+🌐 https://volcanium-studio.com
 
 #### ⛏️ Volcanium Minecraft
 🌐 https://volcanium.fr
