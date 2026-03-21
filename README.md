@@ -52,6 +52,6 @@ Studio web assotiatif
 ### 📫 Me contacter
 
 - 💬 @jiju_off *(discord)*
-- 📧 julrilliot@gmail.com
+- 📧 julien.rilliot@volcanium-studio.com
 - 🌐 https://volcanium-studio.com
 
