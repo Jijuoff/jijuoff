@@ -1,9 +1,3 @@
-## 👋 Salut, moi c’est Julien *(alias jiju)*
----
-# Technologies
-
-### 📝 Langages
-
 # 👋 Salut, moi c'est Julien
 
 💼 Je travaille chez [Volcanium](https://volcanium.eu).
